@@ -21,10 +21,11 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jricass&show_icons=true&theme=dark">
   <img widht="auto" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=jricass&theme=dark">
   <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=jricass&layout=compact&langs_count=10&show_icons=true&theme=dark&card_width=460"/>
-  <p>
-  <img height="100" alt="music" src="cool files\music.gif">
-  </p>
 </div>
+
+<p>
+  <img height="100" alt="music" src="cool files\music.gif">
+</p>
 
 ---
 
