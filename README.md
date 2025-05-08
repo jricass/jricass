@@ -23,6 +23,8 @@
   <img height=240 src="https://github-readme-stats.vercel.app/api/top-langs?username=jricass&layout=compact&langs_count=10&show_icons=true&theme=dark&card_width=445"/>
 </div>
 
+##
+
 <div align=center>
   <img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
 </div>
