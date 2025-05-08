@@ -31,7 +31,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jricass/jricass/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
+<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
 
 ## 😎 Thanks for passing by!
 <div align=center >
