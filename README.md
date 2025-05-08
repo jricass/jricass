@@ -18,14 +18,16 @@
 
 ## 🔥 GitHub Stats  
 <div display=flex align=center>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jricass&show_icons=true&theme=dark">
-  <img widht="auto" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=jricass&theme=dark">
-  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=jricass&layout=compact&langs_count=10&show_icons=true&theme=dark&card_width=460"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jricass&show_icons=true&theme=dark&card_width=200">
+  <img widht="auto" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=jricass&theme=dark&card_width=100">
+  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=jricass&layout=compact&langs_count=10&show_icons=true&theme=dark&card_width=445"/>
 </div>
 
-<p>
-  <img height="100" alt="music" src="cool files\music.gif">
-</p>
+---
+
+<div align=center >
+  <img heigh="140" width="140" src="https://media.discordapp.net/attachments/925599137414647879/1370174812462514297/music.gif?ex=681e8a3b&is=681d38bb&hm=4acb975e6110f61ec4b618b4f24b25309e62d0c59ecb6f17b4d4c5f6ae64b03b&="/>
+</div>
 
 ---
 
