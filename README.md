@@ -18,8 +18,8 @@
 
 ## 🔥 GitHub Stats  
 <div display=flex align=center>
-  <img height=220 src="https://github-readme-stats.vercel.app/api?username=jricass&show_icons=true&theme=dark&card_width=240">
-  <img height=220 src="https://github-readme-streak-stats.herokuapp.com?user=jricass&theme=dark&card_width=300">
+  <img height=220 src="https://github-readme-stats.vercel.app/api?username=jricass&show_icons=true&theme=ambient_gradient&card_width=240">
+  <img height=220 src="https://github-readme-streak-stats.herokuapp.com?user=jricass&theme=ambient_gradient&card_width=300">
 </div>
 
 ##
