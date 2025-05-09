@@ -30,6 +30,6 @@
 
 ## 😎 Thanks for passing by!
 <div align=center >
-  <img heigh="30" width="30" src="https://media.discordapp.net/attachments/925599137414647879/1370174812462514297/music.gif?ex=681e8a3b&is=681d38bb&hm=4acb975e6110f61ec4b618b4f24b25309e62d0c59ecb6f17b4d4c5f6ae64b03b&="/>
+  <img heigh="60" width="60" src="https://media.discordapp.net/attachments/925599137414647879/1370174812462514297/music.gif?ex=681e8a3b&is=681d38bb&hm=4acb975e6110f61ec4b618b4f24b25309e62d0c59ecb6f17b4d4c5f6ae64b03b&="/>
 </div>
 
