@@ -15,7 +15,6 @@
   <img width=40 height=30 src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
   <img width=40 height=30 src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
   <img width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img width=40 height=30 src="https://devicon-website.vercel.app/api/react/original.svg"></img>
   <img width=40 height=30 src="https://devicon-website.vercel.app/api/postgresql/original.svg"></img>
   <img width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
